@@ -1,4 +1,4 @@
-# Prosjekter fra studietiden min
+Denne repositorien er en samling av mine største prosjekter. Det er en blanding av studieoppgaver og hobbyprosjekter.
 
 ## Bacheloroppgave: EMKORE
 Dette prosjektet var en webapplikasjon utviklet for forskningssenteret Center of Integrated Emergency Management.
