@@ -1,13 +1,15 @@
-Denne repositorien er en samling av mine største prosjekter. Det er en blanding av studieoppgaver og hobbyprosjekter.
+Denne repositorien er en samling av prosjekter jeg har jobbet med under studiet og på fritiden.
 
 ## Bacheloroppgave: EMKORE
-Dette prosjektet var en webapplikasjon utviklet for forskningssenteret Center of Integrated Emergency Management.
+Dette prosjektet var en webapplikasjon utviklet for forskningssenteret Centre of Integrated Emergency Management.
+Utviklet med .Net, PostgreSQL og React.
 Applikasjonen viser til et eksempel på hvordan nødetater kan kommunisere med hverandre under krisetilfeller.
 
 https://github.com/JosefBurkan/CIEM_Nodnettapplikasjon
 
 ## Hobbyprosjekter
 
-Mitt største hobbyprosjekt. Utvikler et spill i C++ ved bruk av multimediabiblioteket SFML.
+Mitt største hobbyprosjekt som jeg jobber på i dag. Utvikler et spill i C++ ved bruk av multimediabiblioteket SFML.
 
 https://github.com/JosefBurkan/SFML_Game_Project
+
