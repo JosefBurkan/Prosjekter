@@ -2,7 +2,7 @@ Denne repositorien er en samling av prosjekter jeg har jobbet med under studiet 
 
 ## Bacheloroppgave: EMKORE
 Dette prosjektet var en webapplikasjon utviklet for forskningssenteret Centre of Integrated Emergency Management.
-Utviklet med .Net, PostgreSQL og React.
+Utviklet i .NET, Supabase og React.
 Applikasjonen viser til et eksempel på hvordan nødetater kan kommunisere med hverandre under krisetilfeller.
 
 https://github.com/JosefBurkan/CIEM_Nodnettapplikasjon
