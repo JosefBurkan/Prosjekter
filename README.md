@@ -15,3 +15,6 @@ Mitt største hobbyprosjekt som jeg jobber på i dag. Utvikler et spill i C++ ve
 
 https://github.com/JosefBurkan/SFML_Game_Project
 
+Eldre prosjekt fra før jeg startet å studere. Et uferdig spill utviklet i GameMaker Studio 2
+
+https://github.com/JosefBurkan/GMS2
