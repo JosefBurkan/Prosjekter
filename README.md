@@ -7,7 +7,7 @@ Applikasjonen viser til et eksempel på hvordan nødetater kan kommunisere med h
 
 https://github.com/JosefBurkan/CIEM_Nodnettapplikasjon
 
-Video av prosjektet: https://youtu.be/kfBt6RHAnzs
+Video av prosjektet: https://youtu.be/kfBt6RHAnzs (Noen funksjoner mangler fra videoen da de ble implementert i etterkant)
 
 ## Hobbyprosjekter
 
