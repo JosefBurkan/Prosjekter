@@ -7,6 +7,8 @@ Applikasjonen viser til et eksempel på hvordan nødetater kan kommunisere med h
 
 https://github.com/JosefBurkan/CIEM_Nodnettapplikasjon
 
+Video av prosjektet: https://youtu.be/kfBt6RHAnzs
+
 ## Hobbyprosjekter
 
 Mitt største hobbyprosjekt som jeg jobber på i dag. Utvikler et spill i C++ ved bruk av multimediabiblioteket SFML.
