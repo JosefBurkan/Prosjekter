@@ -3,7 +3,7 @@ Denne repositorien er en samling av prosjekter jeg har jobbet med under studiet 
 ## Bacheloroppgave: EMKORE
 Dette prosjektet var en webapplikasjon utviklet for forskningssenteret Centre of Integrated Emergency Management.
 Utviklet i .NET, Supabase og React.
-Applikasjonen viser til et eksempel på hvordan nødetater kan kommunisere med hverandre under krisetilfeller.
+Applikasjonen viser til et eksempel på hvordan nødetater kan kommunisere med hverandre under krisehendelser.
 
 https://github.com/JosefBurkan/CIEM_Nodnettapplikasjon
 
@@ -11,7 +11,7 @@ Video av prosjektet: https://youtu.be/kfBt6RHAnzs (Noen funksjoner mangler fra v
 
 
 ## Freelanceprosjekter
-Dette prosjektet er nettside utviklet for bruktbutikken på Merkatå. Det går ut på å vise frem produkter og informasjon om butikken på en
+Dette prosjektet er nettside utviklet for bruktbutikken på Merkatå. Den går ut på å vise frem produkter og informasjon om butikken på en
 oversiktlig og behagelig måte for kunder. I tillegg inkluderer den administratorrettigheter som tillater tillegg, sletting og redigering av produkter.
 Utviklet i Next.JS og Supabase.
 
