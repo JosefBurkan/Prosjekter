@@ -12,8 +12,8 @@ Video av prosjektet: https://youtu.be/kfBt6RHAnzs (Noen funksjoner mangler fra v
 
 ## Freelanceprosjekter
 Dette prosjektet er nettside utviklet for bruktbutikken på Merkatå. Det går ut på å vise frem produkter og informasjon om butikken på en
-oversiktlig og behagelig måte for kunder. I tillegg inkluderer den administratorrettigheter som tillater tilleg og sletting av produkter,
-samt noen andre former for kontroll. Utviklet i Next.JS og Supabase.
+oversiktlig og behagelig måte for kunder. I tillegg inkluderer den administratorrettigheter som tillater tillegg, sletting og redigering av produkter.
+Utviklet i Next.JS og Supabase.
 
 https://github.com/JosefBurkan/Merkata_Brukt_Butikk
 
