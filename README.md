@@ -17,6 +17,8 @@ Utviklet i Next.JS og Supabase.
 
 https://github.com/JosefBurkan/Merkata_Brukt_Butikk
 
+Lenke til nettsiden: https://merkata-bruktbutikk.vercel.app
+
 
 ## Hobbyprosjekter
 
