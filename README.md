@@ -24,9 +24,8 @@ https://github.com/JosefBurkan/Merkata_Brukt_Butikk
 Lenke til nettsiden: https://merkata-bruktbutikk.vercel.app
 
 ## LeseLy boklubb
-Dette prosjektet er en nettside utviklet med samme teknologi som Merkatå sin nettside. Den skiller seg litt ut ved at den fokuserer mer på å
-inkludere brukerne ovenfor å vise dem produkter. Her kan brukere lese om klubben, melde seg på newsletter og eventer, og lese om månedens bok. I tillegg
-så vil de motta eposter etter å ha meldt seg på eventer/newsletter.
+Dette prosjektet er et nettforum utviklet med samme teknologi som bruktbutikken sin nettside. Her kan brukere lese om klubben, melde seg på newsletter og eventer, og lese om månedens bok. I tillegg så vil de motta eposter etter å ha meldt seg på eventer/newsletter. Siden er også knyttet til en discord-bot som sender meldinger etter hendelser som
+utføres av administrator. Er mer på siden en dette og, skal legge ved en lenke til nettsiden etter den er ferdig og i drift
 
 Administrator kan slette/redigere og legge til eventer, og lage/redigere og slette innlegg.
 
