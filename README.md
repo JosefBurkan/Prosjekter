@@ -30,6 +30,8 @@ så vil de motta eposter etter å ha meldt seg på eventer/newsletter.
 
 Administrator kan slette/redigere og legge til eventer, og lage/redigere og slette innlegg.
 
+https://github.com/JosefBurkan/Prosjekter
+
 # Hobbyprosjekter
 
 Mitt største hobbyprosjekt som jeg jobber på i dag. Utvikler et spill i C++ ved bruk av multimediabiblioteket SFML.
