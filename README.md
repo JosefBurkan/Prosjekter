@@ -27,7 +27,8 @@ Lenke til nettsiden: https://merkata-bruktbutikk.vercel.app
 Dette prosjektet er et nettforum utviklet med samme teknologi som bruktbutikken sin nettside. Her kan brukere lese om klubben, melde seg på newsletter og eventer, og lese om månedens bok. I tillegg så vil de motta eposter etter å ha meldt seg på eventer/newsletter. Siden er også knyttet til en discord-bot som sender meldinger etter hendelser som
 utføres av administrator. Er mer på siden en dette og, skal legge ved en lenke til nettsiden etter den er ferdig og i drift
 
-Administrator kan slette/redigere og legge til eventer, og lage/redigere og slette innlegg.
+Administrator kan slette/redigere og legge til eventer, og lage/redigere og slette innlegg. 
+Kan også sende ut news letter-brev
 
 https://github.com/JosefBurkan/Prosjekter
 
